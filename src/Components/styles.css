@@ -1,0 +1,39 @@
+.border-none {
+    border: none !important;
+    background-color: white !important;
+}
+
+.table {
+        border-right: none !important;
+        border-bottom: none !important;
+}
+
+.table th {
+        border-bottom-width: 1px !important;
+    }
+
+.table th td:last-of-type {
+    border-right: 1px solid grey;
+}
+
+.table-button {
+    background-color: #f0ad4e !important;
+    border-color: #f0ad4e !important;
+}
+
+.table-button--first {
+    background-color: #d9534f !important;
+    border-color: #d9534f !important;
+}
+
+.table-button--check {
+    background-color: #5cb85c !important;
+    border-color: #5cb85c !important;
+}
+
+.modal-footer .btn {
+        margin-bottom: 5px !important;
+}
+
+
+

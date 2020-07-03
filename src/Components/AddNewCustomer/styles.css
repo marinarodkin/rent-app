@@ -1,0 +1,10 @@
+.modal-container {
+    position: relative;
+}
+.modal-container .modal, .modal-container .modal-backdrop {
+    position: absolute;
+}
+.add-form{
+    padding-left: 30px;
+    padding-right: 30px;
+}

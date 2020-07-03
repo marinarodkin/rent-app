@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.App {
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+
+.page-header{
+  background: #30d5c8;
+  padding-top: 10px;
+  padding-left: 30px;
+}
+.app-container{
+  padding: 0 50px;
+}
+.top-line{
+  margin-bottom: 50px;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  width: 100%;
+  padding-left: 40px;
+}
+.title {
+  font-size: 30px;
+}
+
